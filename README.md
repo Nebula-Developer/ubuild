@@ -34,4 +34,7 @@ If you like to use custom tab inlining, like the following:
     echo "Hello, world!"
   ```
     
- Then, instead use "ub Test -c 2" (You may set the number to anything, and this will set the function start point for running an operation.)
+Then, instead use "ub Test -c 2" (You may set the number to anything, and this will set the function start point for running an operation.)
+ 
+Making a fork of ubuild? Be sure to message me any bugs you encounter.
+Once ubuild is installed, you can build the project itself, using the provided ubuild file.
